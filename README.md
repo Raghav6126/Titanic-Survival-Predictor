@@ -117,5 +117,5 @@ titanic-survival-predictor/
 
 Happy coding and may the odds of survival be ever in your favor! 🏆💻
 
-By - Tanmay Singh
+By - Raghav Bansal
 ```
